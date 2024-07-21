@@ -11,7 +11,7 @@
 <p align="center"><img width="850" src="images/model.png"></p>
 
 
-[**Installation**](#installation) | [**Dataset**](#-dataset) | [**Training**](#-training) | [**Evaluation**](#-evaluation) | [**Model Zoo**](#-model-zoo)
+[**Installation**](#installation) | [**Dataset**](#dataset) | [**Training**](#-training) | [**Evaluation**](#-evaluation) | [**Model Zoo**](#-model-zoo)
 
 ## 📢 News
 **[2024.7.21]** Our paper has been accepted by ACM MM 2024 (Oral).
@@ -43,4 +43,32 @@ conda activate LLMEPET
 3. Download the packages
 ```shell
 pip install -r requirements.txt
+```
+<a name="dataset"></a>
+
+## 🗂️ Dataset
+For all datasets, we provide extracted features, download them and place them into `features/`
+- [QVHighlights](https://polyuit-my.sharepoint.com/:u:/g/personal/yiyajiang_polyu_edu_hk/EW28uy57KENIusLy8T_u5ZcB8Stq6sPhPv0zfbhorENrmA?e=K60DvU)
+- [Charades-STA](https://polyuit-my.sharepoint.com/:u:/g/personal/yiyajiang_polyu_edu_hk/EaP3G8d6z4VGgZ4qHtjQ_tYBGI6t3-zQCHX48xTeUww9ig?e=L4z64w)
+- [TACoS](https://polyuit-my.sharepoint.com/:u:/g/personal/yiyajiang_polyu_edu_hk/EfTC9kZXptlJqr0TxfbV10MBf3CDxT-mguIxiI7_1Tf4Pg?e=WDzwmp)
+- [YouTube Highlights](https://polyuit-my.sharepoint.com/:u:/g/personal/yiyajiang_polyu_edu_hk/ERIChtcQPQREsJMCdOng8DcBMzL_uRtv-n822aC3FGgHFA?e=uoxVha)
+- [TVSum](https://polyuit-my.sharepoint.com/:u:/g/personal/yiyajiang_polyu_edu_hk/EfEJugMe4jNOr6OjKYwRwskBpdP5Tu9XDu3-pL8jKS0MFQ?e=7w50ow)
+
+### The prepared dataset should be in the following structure.
+```
+.
+├── LLMEPET
+│   ├── llm_epet
+│   └── data
+│   └── results
+│   └── run_on_video
+│   └── standalone_eval
+│   └── utils
+├── features
+    └── qvhighlight
+    └── charades
+    └── tacos
+    └── tvsum
+    └── youtube_uni
+
 ```
