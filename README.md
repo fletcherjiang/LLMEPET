@@ -7,4 +7,5 @@
 
 This repository maintains the official implementation of the paper **Prior-Knowledge-Integration-via-LLM-Encoding-and-Pseudo-Event-Regulation-for-Video-Moment-Retrieval** by [Yiyang Jiang](https://yyjiang.com/), [Wengyu Zhang](https://wengyuzhang.com), [Xulu Zhang](), [Xiao-Yong Wei](), [Chang Wen Chen](https://web.comp.polyu.edu.hk/chencw/), and [Qing Li]().
 
-<p align="center"><img width="850" src="image/model.png"></p>
+
+<p align="center"><img width="850" src="images/model.png"></p>
