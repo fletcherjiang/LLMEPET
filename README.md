@@ -76,10 +76,42 @@ For all datasets, we provide extracted features, download them and place them in
 
 ## 🚀 Training
 
+### QVHighlights Training
+```
+bash llm_epet/scripts/train.sh  
+```
+
+
+### Charades-STA
+```
+bash llm_epet/scripts/charades_sta/train.sh
+```
+
+### TACoS
+```
+bash llm_epet/scripts/tacos/train.sh  
+```
+
+### TVSum
+```
+bash llm_epet/scripts/tvsum/train_tvsum.sh  
+```
+
+### Youtube-hl
+```
+bash llm_epet/scripts/youtube_uni/train.sh  
+```
+
+
 
 <a name="evaluation"></a>
 
-## ⭐ Evaluation
+## ⭐ QVHighlights Evaluation and Submission
+```
+bash llm_epet/scripts/inference.sh results/{direc}/model_best.ckpt 'val'
+bash llm_epet/scripts/inference.sh results/{direc}/model_best.ckpt 'test'
+```
+Pack the hl_{val,test}_submission.jsonl files and submit them to [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/6937).
 
 <a name="model zoo"></a>
 
@@ -87,8 +119,6 @@ For all datasets, we provide extracted features, download them and place them in
 
 
 ## 📖 Citation
-
-
 If you find the repository or the paper useful, please use the following entry for citation.
 ```
 @inproceedings{
