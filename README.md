@@ -64,14 +64,30 @@ For all datasets, we provide extracted features, download them and place them in
 │   └── run_on_video
 │   └── standalone_eval
 │   └── utils
+├── data
 ├── features
-    └── qvhighlight
-    └── charades
-    └── tacos
-    └── tvsum
-    └── youtube_uni
-
+│   └── qvhighlight
+│   └── charades
+│   └── tacos
+│   └── tvsum
+│   └── youtube_uni
+├── llama
+│   └── consolidated.00.pth
+│   └── tokenizer.model
+│   └── params.json
+├──README.md
+└── ···
 ```
+## 🪐 LLaMA Checkpoint
+* You can download from [huggingface](https://huggingface.co/nyanko7/LLaMA-7B)
+OR
+* [LLaMA](https://polyuit-my.sharepoint.com/:f:/g/personal/yiyajiang_polyu_edu_hk/EmNCvzkVem1Ik5gntXQYJ8gB1dv6WusOjKpzZjWdTVIRMw?e=HsZDIh)
+
+
+If you want to try LLaMA-2 or LLaMA-3, you could download the checkpoints from [LLaMA-2](https://huggingface.co/meta-llama/Llama-2-7b) or [LLaMA-3](https://huggingface.co/meta-llama/Meta-Llama-3-8B/tree/main/original). You should edit the (llm_epet/llama.py) by yourself.
+
+
+
 <a name="training"></a>
 
 ## 🚀 Training
