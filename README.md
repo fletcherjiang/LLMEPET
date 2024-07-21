@@ -11,7 +11,7 @@
 <p align="center"><img width="850" src="images/model.png"></p>
 
 
-[**Installation**](#installation) | [**Dataset**](#dataset) | [**Training**](#-training) | [**Evaluation**](#-evaluation) | [**Model Zoo**](#-model-zoo)
+[**Installation**](#installation) | [**Dataset**](#dataset) | [**Training**](#training) | [**Evaluation**](#evaluation) | [**Model Zoo**](#model-zoo)
 
 ## 📢 News
 **[2024.7.21]** Our paper has been accepted by ACM MM 2024 (Oral).
@@ -71,4 +71,32 @@ For all datasets, we provide extracted features, download them and place them in
     └── tvsum
     └── youtube_uni
 
+```
+<a name="training"></a>
+
+## 🚀 Training
+
+
+<a name="evaluation"></a>
+
+## ⭐ Evaluation
+
+<a name="model zoo"></a>
+
+## 📦 Model Zoo
+
+
+## 📖 Citation
+
+
+If you find the repository or the paper useful, please use the following entry for citation.
+```
+@inproceedings{
+jiang2024prior,
+title={Prior Knowledge Integration via {LLM} Encoding and Pseudo Event Regulation for Video Moment Retrieval},
+author={Yiyang Jiang and Wengyu Zhang and Xulu Zhang and Xiaoyong Wei and Chang Wen Chen and Qing Li},
+booktitle={ACM Multimedia 2024},
+year={2024},
+url={https://openreview.net/forum?id=PPmOOMhMOW}
+}
 ```
