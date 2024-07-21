@@ -10,3 +10,24 @@ This repository maintains the official implementation of the paper **Prior-Knowl
 
 
 [**Installation**](#-installation) | [**Dataset**](#-dataset) | [**Training**](#-training) | [**Evaluation**](#-evaluation) | [**Model Zoo**](#-model-zoo)
+
+
+## ⚙️ Installation
+1. Clone the repository from GitHub.
+
+```shell
+git clone https://github.com/fletcherjiang/LLMEPET.git
+cd LLMEPET
+```
+
+2. Create conda environment.
+
+```shell
+conda create -n LLMEPET python=3.8
+conda activate LLMEPET
+```
+
+3. Download the packages
+```shell
+pip install -r requirements.txt
+```
