@@ -1,4 +1,4 @@
-# Prior-Knowledge-Integration-via-LLM-Encoding-and-Pseudo-Event-Regulation-for-Video-Moment-Retrieval
+# Prior Knowledge Integration via LLM Encoding and Pseudo-Event Regulation for Video Moment Retrieval
 
 [Yiyang Jiang](https://yyjiang.com/), [Wengyu Zhang](https://wengyuzhang.com), [Xulu Zhang](), [Xiao-Yong Wei](), [Chang Wen Chen](https://web.comp.polyu.edu.hk/chencw/), and [Qing Li]().
 </div>
@@ -12,6 +12,12 @@
 
 
 [**Installation**](#-installation) | [**Dataset**](#-dataset) | [**Training**](#-training) | [**Evaluation**](#-evaluation) | [**Model Zoo**](#-model-zoo)
+
+## 📢 News
+**[2024.7.21]** Our paper has been accepted by ACM MM 2024 (Oral).
+**[2024.7.10]** The code of related tasks has been released.
+**[2024.5.10]** The repository is public.
+**[2024.4.10]** The repository is created.
 
 
 ## ⚙️ Installation
