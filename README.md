@@ -1,6 +1,5 @@
 # Prior-Knowledge-Integration-via-LLM-Encoding-and-Pseudo-Event-Regulation-for-Video-Moment-Retrieval
 
-<div>
 [Yiyang Jiang](https://yyjiang.com/), [Wengyu Zhang](https://wengyuzhang.com), [Xulu Zhang](), [Xiao-Yong Wei](), [Chang Wen Chen](https://web.comp.polyu.edu.hk/chencw/), and [Qing Li]().
 </div>
 
