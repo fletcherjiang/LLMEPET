@@ -14,7 +14,7 @@
 [**Installation**](#installation) | [**Dataset**](#dataset) | [**Training**](#training) | [**Evaluation**](#evaluation) | [**Model Zoo**](#model-zoo)
 
 ## 📢 News
-**[2024.7.21]** Our paper has been accepted by ACM MM 2024 (Oral).
+**[2024.7.21]** Our paper has been accepted by ACM Multimedia 2024 (Oral).
 
 **[2024.7.10]** The code and dataset of related tasks has been released.
 
@@ -132,7 +132,14 @@ Pack the hl_{val,test}_submission.jsonl files and submit them to [CodaLab](https
 <a name="model zoo"></a>
 
 ## 📦 Model Zoo
-
+Dataset | Model file
+ -- | -- 
+QVHighlights (Slowfast + CLIP) | [checkpoints](https://polyuit-my.sharepoint.com/:f:/g/personal/yiyajiang_polyu_edu_hk/EgNbMi8eS1dCoRI7xo5Ivn0B0x0b8r0J2APzi8QkYjHfdw?e=ioqkQ5)
+Charades (Slowfast + CLIP) | [checkpoints]()
+TACoS | [checkpoints]()
+TVSum | [checkpoints]()
+Youtube-HL | [checkpoints]()
+ 
 
 ## 📖 Citation
 If you find the repository or the paper useful, please use the following entry for citation.
