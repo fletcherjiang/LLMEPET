@@ -11,7 +11,7 @@
 <p align="center"><img width="850" src="images/model.png"></p>
 
 
-[**Installation**](#-installation) | [**Dataset**](#-dataset) | [**Training**](#-training) | [**Evaluation**](#-evaluation) | [**Model Zoo**](#-model-zoo)
+[**Installation**](#installation) | [**Dataset**](#-dataset) | [**Training**](#-training) | [**Evaluation**](#-evaluation) | [**Model Zoo**](#-model-zoo)
 
 ## 📢 News
 **[2024.7.21]** Our paper has been accepted by ACM MM 2024 (Oral).
@@ -24,6 +24,7 @@
 
 
 
+<a name="installation"></a>
 ## ⚙️ Installation
 1. Clone the repository from GitHub.
 
