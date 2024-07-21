@@ -11,7 +11,7 @@
 <p align="center"><img width="850" src="images/model.png"></p>
 
 
-[**Installation**](#installation) | [**Dataset**](#dataset) | [**Training**](#training) | [**Evaluation**](#evaluation) | [**Model Zoo**](#model-zoo)
+[**Installation**](#installation) | [**Dataset**](#dataset) | [**Training**](#training) | [**Evaluation**](#evaluation) | [**Model Zoo**](#model)
 
 ## 📢 News
 **[2024.7.21]** Our paper has been accepted by ACM Multimedia 2024 (Oral).
@@ -129,7 +129,7 @@ bash llm_epet/scripts/inference.sh results/{direc}/model_best.ckpt 'test'
 ```
 Pack the hl_{val,test}_submission.jsonl files and submit them to [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/6937).
 
-<a name="model zoo"></a>
+<a name="model"></a>
 
 ## 📦 Model Zoo
 Dataset | Model file
