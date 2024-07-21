@@ -15,9 +15,13 @@
 
 ## 📢 News
 **[2024.7.21]** Our paper has been accepted by ACM MM 2024 (Oral).
-**[2024.7.10]** The code of related tasks has been released.
+
+**[2024.7.10]** The code and dataset of related tasks has been released.
+
 **[2024.5.10]** The repository is public.
+
 **[2024.4.10]** The repository is created.
+
 
 
 ## ⚙️ Installation
