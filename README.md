@@ -1,6 +1,8 @@
 # Prior Knowledge Integration via LLM Encoding and Pseudo-Event Regulation for Video Moment Retrieval
 
-Official Pytorch Implementation of 'Prior Knowledge Integration via LLM Encoding and Pseudo-Event Regulation for Video Moment Retrieval'
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/prior-knowledge-integration-via-llm-encoding/highlight-detection-on-qvhighlights)](https://paperswithcode.com/sota/highlight-detection-on-qvhighlights?p=prior-knowledge-integration-via-llm-encoding)
+
+
 
 [Yiyang Jiang](https://yyjiang.com/), [Wengyu Zhang](https://wengyuzhang.com), [Xulu Zhang](https://scholar.google.com/citations?user=4UqJoGMAAAAJ), [Xiao-Yong Wei](https://www4.comp.polyu.edu.hk/~x1wei/), [Chang Wen Chen](https://web.comp.polyu.edu.hk/chencw/), and [Qing Li](https://www4.comp.polyu.edu.hk/~csqli/).
 </div>
@@ -9,7 +11,7 @@ Official Pytorch Implementation of 'Prior Knowledge Integration via LLM Encoding
 [![License](https://badgen.net/badge/License/BSD%203-Clause%20License?color=blue&cache=300)](https://github.com/fletcherjiang/LLMEPET/blob/main/LICENSE)
 
 
-
+Official Pytorch Implementation of 'Prior Knowledge Integration via LLM Encoding and Pseudo-Event Regulation for Video Moment Retrieval'
 <p align="center"><img width="850" src="images/model.png"></p>
 
 
