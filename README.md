@@ -4,7 +4,7 @@
 </div>
 
 [![arXiv](https://badgen.net/badge/arXiv/2407.15051/red?cache=300)](https://arxiv.org/abs/2407.15051)
-[![License](https://badgen.net/badge/License/BSD%203-Clause%20License?color=blue&cache=300)](https://github.com/yeliudev/R2-Tuning/blob/main/LICENSE)
+[![License](https://badgen.net/badge/License/BSD%203-Clause%20License?color=blue&cache=300)]()
 
 
 
