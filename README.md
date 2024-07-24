@@ -165,6 +165,6 @@ title={Prior Knowledge Integration via {LLM} Encoding and Pseudo Event Regulatio
 author={Yiyang Jiang and Wengyu Zhang and Xulu Zhang and Xiaoyong Wei and Chang Wen Chen and Qing Li},
 booktitle={ACM Multimedia 2024},
 year={2024},
-url={https://openreview.net/forum?id=PPmOOMhMOW}
+url={https://arxiv.org/abs/2407.15051}
 }
 ```
