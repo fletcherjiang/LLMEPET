@@ -149,9 +149,9 @@ Pack the hl_{val,test}_submission.jsonl files and submit them to [CodaLab](https
 Dataset | Model file
  -- | -- 
 QVHighlights (Slowfast + CLIP) | [checkpoints](https://polyuit-my.sharepoint.com/:f:/g/personal/yiyajiang_polyu_edu_hk/EgNbMi8eS1dCoRI7xo5Ivn0B0x0b8r0J2APzi8QkYjHfdw?e=ioqkQ5)
-Charades (Slowfast + CLIP) | [checkpoints]()
-TACoS | [checkpoints]()
-TVSum | [checkpoints]()
+Charades (Slowfast + CLIP) | [checkpoints](https://polyuit-my.sharepoint.com/:f:/g/personal/yiyajiang_polyu_edu_hk/ElnP--2r1RNLqNjqQcUUUCsBRK2NN3CdMMBQae9yf_FrdQ?e=jZo1JO)
+TACoS | [checkpoints](https://polyuit-my.sharepoint.com/:f:/g/personal/yiyajiang_polyu_edu_hk/EuxFRpahctJBv7NqdXCMPDYBF_jdCDPE7TnnA6z7xJzrkg?e=uo2zqr)
+TVSum | [checkpoints](https://polyuit-my.sharepoint.com/:f:/g/personal/yiyajiang_polyu_edu_hk/ErIPP2K7r7RMmsj7gLbPMZoBv-IbPyiB2NwcvmYS3kYEfg?e=2asVNJ)
 Youtube-HL | [checkpoints]()
  
 
