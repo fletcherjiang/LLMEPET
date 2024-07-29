@@ -1,6 +1,5 @@
 # Prior Knowledge Integration via LLM Encoding and Pseudo-Event Regulation for Video Moment Retrieval
 
-[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/prior-knowledge-integration-via-llm-encoding/highlight-detection-on-tvsum)](https://paperswithcode.com/sota/highlight-detection-on-tvsum?p=prior-knowledge-integration-via-llm-encoding)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/prior-knowledge-integration-via-llm-encoding/natural-language-moment-retrieval-on-tacos)](https://paperswithcode.com/sota/natural-language-moment-retrieval-on-tacos?p=prior-knowledge-integration-via-llm-encoding)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/prior-knowledge-integration-via-llm-encoding/highlight-detection-on-youtube-highlights)](https://paperswithcode.com/sota/highlight-detection-on-youtube-highlights?p=prior-knowledge-integration-via-llm-encoding)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/prior-knowledge-integration-via-llm-encoding/highlight-detection-on-qvhighlights)](https://paperswithcode.com/sota/highlight-detection-on-qvhighlights?p=prior-knowledge-integration-via-llm-encoding)
