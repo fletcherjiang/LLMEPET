@@ -6,14 +6,6 @@
 
 
 
-
-
-
-
-
-
-
-
 [Yiyang Jiang](https://yyjiang.com/), [Wengyu Zhang](https://wengyuzhang.com), [Xulu Zhang](https://scholar.google.com/citations?user=4UqJoGMAAAAJ), [Xiao-Yong Wei](https://www4.comp.polyu.edu.hk/~x1wei/), [Chang Wen Chen](https://web.comp.polyu.edu.hk/chencw/), and [Qing Li](https://www4.comp.polyu.edu.hk/~csqli/).
 </div>
 
